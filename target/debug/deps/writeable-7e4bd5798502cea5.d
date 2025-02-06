@@ -1,0 +1,11 @@
+/Users/joeylin/Documents/tcp_ip_test/target/debug/deps/libwriteable-7e4bd5798502cea5.rmeta: /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/lib.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/cmp.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/impls.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/ops.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/parts_write_adapter.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/testing.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/try_writeable.rs
+
+/Users/joeylin/Documents/tcp_ip_test/target/debug/deps/writeable-7e4bd5798502cea5.d: /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/lib.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/cmp.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/impls.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/ops.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/parts_write_adapter.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/testing.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/try_writeable.rs
+
+/Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/lib.rs:
+/Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/cmp.rs:
+/Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/impls.rs:
+/Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/ops.rs:
+/Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/parts_write_adapter.rs:
+/Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/testing.rs:
+/Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/try_writeable.rs:

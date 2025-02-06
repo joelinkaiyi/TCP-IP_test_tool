@@ -1,0 +1,10 @@
+/Users/joeylin/Documents/tcp_ip_test/target/debug/deps/libobjc2_encode-6f3ac7ea6fde9c34.rmeta: /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/lib.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/encoding.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/encoding_box.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/helper.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/parse.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/static_str.rs
+
+/Users/joeylin/Documents/tcp_ip_test/target/debug/deps/objc2_encode-6f3ac7ea6fde9c34.d: /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/lib.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/encoding.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/encoding_box.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/helper.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/parse.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/static_str.rs
+
+/Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/lib.rs:
+/Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/encoding.rs:
+/Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/encoding_box.rs:
+/Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/helper.rs:
+/Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/parse.rs:
+/Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/static_str.rs:

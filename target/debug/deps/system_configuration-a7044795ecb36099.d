@@ -1,0 +1,9 @@
+/Users/joeylin/Documents/tcp_ip_test/target/debug/deps/libsystem_configuration-a7044795ecb36099.rmeta: /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/lib.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/dynamic_store.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/network_configuration.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/network_reachability.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/preferences.rs
+
+/Users/joeylin/Documents/tcp_ip_test/target/debug/deps/system_configuration-a7044795ecb36099.d: /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/lib.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/dynamic_store.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/network_configuration.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/network_reachability.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/preferences.rs
+
+/Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/lib.rs:
+/Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/dynamic_store.rs:
+/Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/network_configuration.rs:
+/Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/network_reachability.rs:
+/Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/preferences.rs:
